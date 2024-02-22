@@ -1,0 +1,26 @@
+experience blocks css line 575
+
+.timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
+  position: relative;
+  background: #2a43a8;
+  padding: 1.5em;
+  margin-left: 60px;
+  -webkit-background-clip: padding-box;
+  -moz-background-clip: padding;
+  background-clip: padding-box; }
+
+
+
+
+There is a white line between the work experience  blocks that is colored white. How can I change its color? Where is the element?
+
+092635
+1B4242
+5C8374
+9EC8B9
+
+27374D
+526D82 --> 384b59
+9DB2BF
+DDE6ED
+
